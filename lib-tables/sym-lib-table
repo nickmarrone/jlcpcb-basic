@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "JLC_Basic_Resistors")(type "KiCad")(uri "${JLC_BASIC_DIR}/JLC_Basic_Resistors.kicad_sym")(options "")(descr "JLCPCB Basic resistors"))
+  (lib (name "JLC_Basic_Capacitors")(type "KiCad")(uri "${JLC_BASIC_DIR}/JLC_Basic_Capacitors.kicad_sym")(options "")(descr "JLCPCB Basic capacitors"))
+  (lib (name "JLC_Basic_Other")(type "KiCad")(uri "${JLC_BASIC_DIR}/JLC_Basic_Other.kicad_sym")(options "")(descr "JLCPCB Basic parts other than resistors and capacitors"))
+)

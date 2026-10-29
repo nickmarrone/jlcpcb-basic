@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "JLC_Basic_Resistors")(type "KiCad")(uri "${JLC_BASIC_DIR}/JLC_Basic_Resistors.pretty")(options "")(descr "JLCPCB Basic resistors"))
+  (lib (name "JLC_Basic_Capacitors")(type "KiCad")(uri "${JLC_BASIC_DIR}/JLC_Basic_Capacitors.pretty")(options "")(descr "JLCPCB Basic capacitors"))
+  (lib (name "JLC_Basic_Other")(type "KiCad")(uri "${JLC_BASIC_DIR}/JLC_Basic_Other.pretty")(options "")(descr "JLCPCB Basic parts other than resistors and capacitors"))
+)
